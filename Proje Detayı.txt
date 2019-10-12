@@ -1,0 +1,31 @@
+User
+--------
+id
+isdelete
+username
+pwd
+totalpoint
+
+
+Game
+--------
+id
+adddate
+levelid
+
+
+GameUser
+--------
+gameid
+userid
+point
+
+Level
+----
+id
+name
+
+npm install
+npm install socket.io
+npm intall express
+node server 
